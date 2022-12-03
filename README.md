@@ -1,10 +1,10 @@
-# app
+# Digi-ID: Blockchain Based Open Authentication Protocol
 
-A new Flutter project.
+Digi-ID is an authentication method based on the security of the DigiByte blockchain. It is inspired by a bitcoin improvement proposal draft named, Bitcoin address authentication protocol (BitID).
 
-## Getting Started
+## This Project
 
-This project is a starting point for a Flutter application.
+In this project, Flutter based DigiByte wallet is implemented along with the client side Digi-ID protocol as well.
 
 A few resources to get you started if this is your first Flutter project:
 
