@@ -8,5 +8,5 @@ In this project, Flutter based DigiByte wallet is implemented along with the cli
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Official: Read more about Digi-ID](https://www.digi-id.io/])
+- [Official: Read more about Digi-ID](https://www.digi-id.io)
 - [Medium Article:Digi-ID: A blockchain based Open Authentication Protocol](https://medium.com/@1runx3na/digi-id-a-blockchain-based-open-authentication-protocol-14f60446e39e)
